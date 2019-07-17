@@ -1,0 +1,15 @@
+The Debugging Mindset	10.1145/3055301.3068754
+Bitcoin's Academic Pedigree	10.1145/3134434.3136559
+Bitcoin's Academic Pedigree	10.1145/3134434.3136559
+More than a Mouse	10.1145/2524713.2524719
+Graph matching theory/practice	10.1145/2933412
+The power of big ideas	10.1145/2949336
+What is a Robot?	10.1145/2398356.2398358
+Inverse privacy	10.1145/2838730
+Inverse privacy	10.1145/2838730
+Inverse privacy	10.1145/2838730
+AR: Forget the Glasses	10.1109/MSPEC.2017.7802744
+Can We Trust Robots?	10.1007/s10676-011-9279-1
+Human Tagging	10.1109/MC.2017.3641646
+Human Tagging	10.1109/MC.2017.3641646
+Theory of Software Reliability	10.1109/2.889091
